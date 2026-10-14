@@ -1,0 +1,17 @@
+# Dados pesados - não subir pro GitHub
+*.csv
+*.zip
+*.xlsx
+
+# Ambiente
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
